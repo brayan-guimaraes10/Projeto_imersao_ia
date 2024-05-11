@@ -2,7 +2,7 @@
 
 Bem-vindo ao Guimaverse, seu portal definitivo para tudo relacionado a jogos! 🎮
 
-Aqui você encontra um projeto voltado curiosidades, dicas de gameplay, análises, notícias e muito mais sobre o universo gamer. Seja você um jogador experiente ou iniciante, este espaço é para você! 🕹️
+Aqui você encontra um projeto voltado curiosidades, dicas de gameplay, análises, notícias e muito mais sobre o universo gamer. Seja você um jogador experiente ou iniciante, este espaço é para você!
 
 Navegue pelas seções:
 
