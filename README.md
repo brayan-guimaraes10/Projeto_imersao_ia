@@ -1,6 +1,6 @@
 # Projeto_imersao_ia
 
-Bem-vindo ao Guimaverse, seu chatbot definitivo para tudo relacionado a jogos! 🎮
+Bem-vindo ao Guimaverse, seu chatbot para tudo relacionado a jogos! 🎮
 
 Aqui você encontra um projeto voltado curiosidades, dicas de gameplay, análises, notícias e muito mais sobre o universo gamer. Seja você um jogador experiente ou iniciante, este espaço é para você!
 
